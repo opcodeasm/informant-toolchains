@@ -147,21 +147,6 @@ This separation also allows more than one toolchain to be installed. A
 project can select an appropriate installed toolchain without requiring
 a system-wide change to Inform.
 
-## Toolchain Sources and Releases
-
-Informant toolchains are assembled from the Inform ecosystem and
-packaged for use by Informant. Build automation, source information, and
-downloadable releases are maintained in the Informant toolchain
-repository:
-
--   [Informant Toolchain
-    Actions](https://github.com/interactivefiction/informant-toolchains/actions)
--   [Informant Toolchain
-    Releases](https://github.com/interactivefiction/informant-toolchains/releases)
-
-The toolchain is distributed separately from the Informant VS Code
-extension.
-
 ## Licensing
 
 The GitHub Actions workflows used to build and package the Informant
